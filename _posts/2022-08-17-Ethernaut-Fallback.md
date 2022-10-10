@@ -320,7 +320,7 @@ owner = msg.sender;
 brownie run .\scripts\attack.py
 ```
 
-![jadu](../assets/images/fallback.png)
+![jadu](/assets/images/fallback.png)
 
 - To run on `rikeby` network use this command. Syntax is `brownie run <script.py> <function name> <contract address> --network rikeby`
 
