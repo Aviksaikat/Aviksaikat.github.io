@@ -1,5 +1,5 @@
 ---
-title: "Fallback Ethernaut "
+title: "Fallback Ethernaut"
 layout: post
 date: 2022-08-17
 image: /assets/images/markdown.jpg
@@ -13,7 +13,7 @@ author: avik
 description: This is a collection of short CSS snippets I thought might be useful for beginners
 ---
 
-[//]: # (Fallback)
+[//]: # (Fallback) comment 
 
 - `Difficulty`: 1/10
 
